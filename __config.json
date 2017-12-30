@@ -1,0 +1,8 @@
+{
+  "root": "example/",
+  "id": "example/hello-world",
+  "title": "Hello world",
+  "description": "Welcome!",
+  "previousURL": "",
+  "nextURL": ""
+}
